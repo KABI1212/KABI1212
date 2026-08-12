@@ -1,6 +1,6 @@
 <!-- ============================================================= -->
 <!--              KABILESH K — GITHUB DEVELOPER PROFILE           -->
-<!--              Theme: Emerald × Aqua × GitHub Dark             -->
+<!--              Theme: Emerald × Aqua × Serif Typography         -->
 <!-- ============================================================= -->
 
 <div align="center">
@@ -10,797 +10,317 @@
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=82&duration=2800&pause=5000&color=10B981&center=true&vCenter=true&width=1000&height=120&lines=Kabilesh+K"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=60&duration=2800&pause=5000&color=10B981&center=true&vCenter=true&width=1000&height=90&lines=Kabilesh+K"
 alt="Kabilesh K"
 />
 
-<h2>
-<b><i>AI & Software Developer</i></b>
-</h2>
+<h2><b><i>AI &amp; Software Developer</i></b></h2>
+
+<p><i>Building intelligent applications at the intersection of<br/><b>AI, software engineering, and creative problem-solving.</b></i></p>
 
 <p>
-<i>
-Building intelligent applications at the intersection of
-<b>AI, software engineering, and creative problem-solving.</b>
-</i>
-</p>
-
-<p>
-<code>AI</code>
-&nbsp; • &nbsp;
-<code>FULL STACK</code>
-&nbsp; • &nbsp;
-<code>GENERATIVE AI</code>
-&nbsp; • &nbsp;
-<code>OPEN SOURCE</code>
+<code>AI</code> &nbsp;•&nbsp; <code>FULL STACK</code> &nbsp;•&nbsp; <code>GENERATIVE AI</code> &nbsp;•&nbsp; <code>OPEN SOURCE</code>
 </p>
 
 <br/>
 
-<a href="https://github.com/KABI1212">
-<img
-src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"
-alt="GitHub"
-/>
-</a>
-
+<a href="https://github.com/KABI1212"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
-
-<a href="https://www.linkedin.com/in/kabi-k">
-<img
-src="https://img.shields.io/badge/LINKEDIN-10B981?style=for-the-badge&logo=linkedin&logoColor=white"
-alt="LinkedIn"
-/>
-</a>
-
+<a href="https://www.linkedin.com/in/kabi-k"><img src="https://img.shields.io/badge/LINKEDIN-10B981?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-
-<a href="mailto:kabileshkoffl@gmail.com">
-<img
-src="https://img.shields.io/badge/EMAIL-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white"
-alt="Email"
-/>
-</a>
-
+<a href="mailto:kabileshkoffl@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
-
-<a href="https://leetcode.com/u/K_Kabilesh">
-<img
-src="https://img.shields.io/badge/LEETCODE-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116"
-alt="LeetCode"
-/>
-</a>
+<a href="https://leetcode.com/u/K_Kabilesh"><img src="https://img.shields.io/badge/LEETCODE-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
 
 <br/><br/>
 
-<img
-src="https://komarev.com/ghpvc/?username=KABI1212&label=PROFILE+VIEWS&color=10B981&style=flat-square"
-alt="Profile Views"
-/>
-
+<img src="https://komarev.com/ghpvc/?username=KABI1212&label=PROFILE+VIEWS&color=10B981&style=flat-square"/>
 &nbsp;
-
-<img
-src="https://img.shields.io/github/followers/KABI1212?label=FOLLOWERS&style=flat-square&color=2DD4BF"
-alt="GitHub Followers"
-/>
+<img src="https://img.shields.io/github/followers/KABI1212?label=FOLLOWERS&style=flat-square&color=2DD4BF"/>
 
 <br/><br/>
 
+---
 
 <!-- ============================================================= -->
-<!--                         MY WORLD                              -->
+<!--                       01 · MY WORLD                            -->
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=850&height=85&lines=My+World"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=850&height=65&lines=01+%C2%B7+My+World"
 alt="My World"
 />
 
-<h3>
-<b><i>
-“Turning ideas into intelligent, useful, and scalable software.”
-</i></b>
-</h3>
+<h3><b><i>"Turning ideas into intelligent, useful, and scalable software."</i></b></h3>
 
-<p>
-<i>
-I'm a developer who enjoys building
-<b>AI-powered applications, intelligent assistants,
-full-stack platforms, and experimental software.</b>
-</i>
-</p>
+<p><i>I'm a developer who enjoys building <b>AI-powered applications, intelligent assistants, full-stack platforms, and experimental software.</b></i></p>
 
-<p>
-<i>
-I explore how <b>Artificial Intelligence</b> can work together
-with modern software engineering to create digital products
-that are practical, interactive, and meaningful.
-</i>
-</p>
+<p><i>I explore how <b>Artificial Intelligence</b> can work together with modern software engineering to create digital products that are practical, interactive, and meaningful.</i></p>
+
+<p><b><i>THINK&nbsp;&nbsp;→&nbsp;&nbsp;EXPERIMENT&nbsp;&nbsp;→&nbsp;&nbsp;BUILD&nbsp;&nbsp;→&nbsp;&nbsp;IMPROVE&nbsp;&nbsp;→&nbsp;&nbsp;REPEAT</i></b></p>
 
 <br/>
 
-<p>
-<b><i>
-THINK　→　EXPERIMENT　→　BUILD　→　IMPROVE　→　REPEAT
-</i></b>
-</p>
-
-<br/>
-
+---
 
 <!-- ============================================================= -->
-<!--                       TECH UNIVERSE                           -->
+<!--                    02 · TECH UNIVERSE                         -->
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=850&height=85&lines=Tech+Universe"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=850&height=65&lines=02+%C2%B7+Tech+Universe"
 alt="Tech Universe"
 />
 
-<p>
-<i>
-The languages, frameworks, technologies, and tools behind what I build.
-</i>
-</p>
+<p><i>The languages, frameworks, technologies, and tools behind what I build.</i></p>
 
 <br/>
 
-
-<!-- LANGUAGES -->
-
-<h3>
-<b><i>Languages</i></b>
-</h3>
-
-<img
-src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark"
-alt="Programming Languages"
-/>
-
+<h3><b><i>Languages</i></b></h3>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark"/>
 <br/><br/>
-
-<p>
-<i>
-Java　•　Python　•　JavaScript　•　HTML5　•　CSS3
-</i>
-</p>
+<p><i>Java&nbsp;•&nbsp;Python&nbsp;•&nbsp;JavaScript&nbsp;•&nbsp;HTML5&nbsp;•&nbsp;CSS3</i></p>
 
 <br/>
 
-
-<!-- FRONTEND -->
-
-<h3>
-<b><i>Frontend & Interfaces</i></b>
-</h3>
-
-<img
-src="https://skillicons.dev/icons?i=react,vite&theme=dark"
-alt="Frontend Technologies"
-/>
-
+<h3><b><i>Frontend &amp; Interfaces</i></b></h3>
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/>
 <br/><br/>
-
-<p>
-<i>
-React　•　Vite　•　Responsive UI　•　Modern Web Interfaces
-</i>
-</p>
+<p><i>React&nbsp;•&nbsp;Vite&nbsp;•&nbsp;Responsive UI&nbsp;•&nbsp;Modern Web Interfaces</i></p>
 
 <br/>
 
-
-<!-- BACKEND -->
-
-<h3>
-<b><i>Backend & Data</i></b>
-</h3>
-
-<img
-src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb&theme=dark"
-alt="Backend and Database Technologies"
-/>
-
+<h3><b><i>Backend &amp; Data</i></b></h3>
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb&theme=dark"/>
 <br/><br/>
-
-<p>
-<i>
-FastAPI　•　REST APIs　•　MySQL　•　MongoDB
-</i>
-</p>
+<p><i>FastAPI&nbsp;•&nbsp;REST APIs&nbsp;•&nbsp;MySQL&nbsp;•&nbsp;MongoDB</i></p>
 
 <br/>
 
-
-<!-- ARTIFICIAL INTELLIGENCE -->
-
-<h3>
-<b><i>Artificial Intelligence</i></b>
-</h3>
-
-<img
-src="https://img.shields.io/badge/GENERATIVE_AI-10B981?style=for-the-badge"
-alt="Generative AI"
-/>
-
+<h3><b><i>Artificial Intelligence</i></b></h3>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-10B981?style=for-the-badge"/>
 &nbsp;
-
-<img
-src="https://img.shields.io/badge/MACHINE_LEARNING-161B22?style=for-the-badge"
-alt="Machine Learning"
-/>
-
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-161B22?style=for-the-badge"/>
 &nbsp;
-
-<img
-src="https://img.shields.io/badge/NLP-2DD4BF?style=for-the-badge"
-alt="NLP"
-/>
+<img src="https://img.shields.io/badge/NLP-2DD4BF?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/DEEP_LEARNING-161B22?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/COMPUTER_VISION-10B981?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-2DD4BF?style=flat-square"/>
 
 <br/><br/>
 
-<img
-src="https://img.shields.io/badge/DEEP_LEARNING-161B22?style=flat-square"
-alt="Deep Learning"
-/>
-
-&nbsp;
-
-<img
-src="https://img.shields.io/badge/COMPUTER_VISION-10B981?style=flat-square"
-alt="Computer Vision"
-/>
-
-&nbsp;
-
-<img
-src="https://img.shields.io/badge/PROMPT_ENGINEERING-2DD4BF?style=flat-square"
-alt="Prompt Engineering"
-/>
-
+<h3><b><i>Developer Toolkit</i></b></h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark"/>
 <br/><br/>
-
-<p>
-<i>
-Generative AI　•　Machine Learning　•　Natural Language Processing
-<br/>
-Deep Learning　•　Computer Vision　•　Prompt Engineering
-</i>
-</p>
+<p><i>Git&nbsp;•&nbsp;GitHub&nbsp;•&nbsp;VS Code&nbsp;•&nbsp;npm</i></p>
 
 <br/>
 
-
-<!-- DEVELOPER TOOLS -->
-
-<h3>
-<b><i>Developer Toolkit</i></b>
-</h3>
-
-<img
-src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark"
-alt="Developer Tools"
-/>
-
-<br/><br/>
-
-<p>
-<i>
-Git　•　GitHub　•　VS Code　•　npm
-</i>
-</p>
-
-<br/>
-
+---
 
 <!-- ============================================================= -->
-<!--                    FEATURED CREATIONS                         -->
+<!--                 03 · FEATURED CREATIONS                       -->
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=58&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=90&lines=Featured+Creations"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=65&lines=03+%C2%B7+Featured+Creations"
 alt="Featured Creations"
 />
 
-<h3>
-<b><i>
-“Projects are where ideas become real.”
-</i></b>
-</h3>
+<h3><b><i>"Projects are where ideas become real."</i></b></h3>
 
-<p>
-<code>IDEA</code>
-　→　
-<code>DESIGN</code>
-　→　
-<code>BUILD</code>
-　→　
-<code>ITERATE</code>
-　→　
-<code>IMPACT</code>
-</p>
+<p><code>IDEA</code>&nbsp;→&nbsp;<code>DESIGN</code>&nbsp;→&nbsp;<code>BUILD</code>&nbsp;→&nbsp;<code>ITERATE</code>&nbsp;→&nbsp;<code>IMPACT</code></p>
 
 </div>
 
-
-<!-- ============================================================= -->
-<!--                         NOVA AI                               -->
-<!-- ============================================================= -->
+<br/>
 
 <table width="100%">
-
 <tr>
-
-<td width="12%" align="center">
-
-<h1>
-<i>01</i>
-</h1>
-
-</td>
-
+<td width="12%" align="center"><h1><i>1</i></h1></td>
 <td width="88%">
 
-<h1>
-<b><i>NOVA AI</i></b>
-</h1>
-
-<h3>
-<i>Multi-AI Intelligence Platform</i>
-</h3>
-
-<p>
-<i>
-A unified <b>AI-powered ecosystem</b> designed to bring
-multiple artificial-intelligence capabilities together
-into one intelligent experience.
-</i>
-</p>
-
-<p>
-<i>
-Built around multi-provider AI architecture,
-intelligent conversations, modern APIs,
-and a full-stack user experience.
-</i>
-</p>
-
-<p>
-<code>Python</code>
-<code>FastAPI</code>
-<code>React</code>
-<code>Generative AI</code>
-<code>REST API</code>
-</p>
-
-<a href="https://github.com/KABI1212/NOVA-AI">
-
-<img
-src="https://img.shields.io/badge/SOURCE_CODE-10B981?style=for-the-badge&logo=github&logoColor=white"
-alt="NOVA AI Source Code"
-/>
-
-</a>
-
+<h2><b><i>NOVA AI</i></b></h2>
+<h4><i>Multi-AI Intelligence Platform</i></h4>
+<p><i>A unified <b>AI-powered ecosystem</b> designed to bring multiple artificial-intelligence capabilities together into one intelligent experience — multi-provider AI architecture, intelligent conversations, modern APIs, and a full-stack user experience.</i></p>
+<p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>Generative AI</code> <code>REST API</code></p>
+<a href="https://github.com/KABI1212/NOVA-AI"><img src="https://img.shields.io/badge/SOURCE_CODE-10B981?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
-
-<a href="https://nova-ai-virid-three.vercel.app/">
-
-<img
-src="https://img.shields.io/badge/LIVE_DEMO-161B22?style=for-the-badge&logo=vercel&logoColor=white"
-alt="NOVA AI Live Demo"
-/>
-
-</a>
+<a href="https://nova-ai-virid-three.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-161B22?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </td>
-
 </tr>
-
 </table>
 
-
-<!-- ============================================================= -->
-<!--                         NEXA AI                               -->
-<!-- ============================================================= -->
+<br/>
 
 <table width="100%">
-
 <tr>
+<td width="50%" valign="top" align="center">
 
-<td width="12%" align="center">
-
-<h1>
-<i>02</i>
-</h1>
-
-</td>
-
-<td width="88%">
-
-<h1>
-<b><i>NEXA AI</i></b>
-</h1>
-
-<h3>
-<i>AI Career Intelligence Platform</i>
-</h3>
-
-<p>
-<i>
-An <b>AI-powered career intelligence platform</b>
-designed to transform skills, interests, and goals
-into personalized career pathways.
-</i>
-</p>
-
-<p>
-<i>
-Explores intelligent career recommendations,
-skill analysis, personalized learning,
-and career-readiness experiences.
-</i>
-</p>
-
-<p>
-<code>Artificial Intelligence</code>
-<code>Python</code>
-<code>JavaScript</code>
-<code>MySQL</code>
-</p>
-
-<a href="https://github.com/KABI1212/NEXA-AI">
-
-<img
-src="https://img.shields.io/badge/SOURCE_CODE-10B981?style=for-the-badge&logo=github&logoColor=white"
-alt="NEXA AI Source Code"
-/>
-
-</a>
+<h2><i>2</i></h2>
+<h2><b><i>ImpactSense</i></b></h2>
+<h4><i>Earthquake Impact Prediction</i></h4>
+<p><i>A Machine Learning project exploring seismic data to predict earthquake impact and potential risk levels.</i></p>
+<p><code>Python</code> <code>Machine Learning</code> <code>Data Analysis</code></p>
+<a href="https://github.com/KABI1212/ImpactSense---Earthquake-Impact-Prediction-"><img src="https://img.shields.io/badge/EXPLORE-10B981?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
+<td width="50%" valign="top" align="center">
 
+<h2><i>3</i></h2>
+<h2><b><i>SecureChain</i></b></h2>
+<h4><i>Blockchain × Cybersecurity</i></h4>
+<p><i>An experimental security project exploring blockchain, cryptography, decentralized authentication, and secure data handling.</i></p>
+<p><code>Blockchain</code> <code>Cryptography</code> <code>Cybersecurity</code></p>
+<a href="https://github.com/KABI1212/Blockchain-and-Cybersecurity-SecureChain"><img src="https://img.shields.io/badge/EXPLORE-2DD4BF?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
 </tr>
-
 </table>
-
-
-<!-- ============================================================= -->
-<!--              IMPACTSENSE + SECURECHAIN                       -->
-<!-- ============================================================= -->
-
-<table width="100%">
-
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-<h2>
-<i>03</i>
-</h2>
-
-<h1>
-<b><i>ImpactSense</i></b>
-</h1>
-
-<h3>
-<i>Earthquake Impact Prediction</i>
-</h3>
-
-<p>
-<i>
-A Machine Learning project exploring seismic data
-to predict earthquake impact and potential risk levels.
-</i>
-</p>
-
-<p>
-<code>Python</code>
-<code>Machine Learning</code>
-<code>Data Analysis</code>
-</p>
-
-<a href="https://github.com/KABI1212/ImpactSense---Earthquake-Impact-Prediction-">
-
-<img
-src="https://img.shields.io/badge/EXPLORE-10B981?style=for-the-badge&logo=github&logoColor=white"
-alt="ImpactSense"
-/>
-
-</a>
-
-</div>
-
-</td>
-
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-<h2>
-<i>04</i>
-</h2>
-
-<h1>
-<b><i>SecureChain</i></b>
-</h1>
-
-<h3>
-<i>Blockchain × Cybersecurity</i>
-</h3>
-
-<p>
-<i>
-An experimental security project exploring
-blockchain, cryptography, decentralized authentication,
-and secure data handling.
-</i>
-</p>
-
-<p>
-<code>Blockchain</code>
-<code>Cryptography</code>
-<code>Cybersecurity</code>
-</p>
-
-<a href="https://github.com/KABI1212/Blockchain-and-Cybersecurity-SecureChain">
-
-<img
-src="https://img.shields.io/badge/EXPLORE-2DD4BF?style=for-the-badge&logo=github&logoColor=white"
-alt="SecureChain"
-/>
-
-</a>
-
-</div>
-
-</td>
-
-</tr>
-
-</table>
-
 
 <div align="center">
 
 <br/>
 
-<a href="https://github.com/KABI1212?tab=repositories">
-
-<img
-src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-10B981?style=for-the-badge&logo=github&logoColor=white"
-alt="Explore All Repositories"
-/>
-
-</a>
+<a href="https://github.com/KABI1212?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-10B981?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
+---
 
 <!-- ============================================================= -->
-<!--                     CURRENTLY EXPLORING                       -->
+<!--                 04 · CURRENTLY EXPLORING                      -->
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=85&lines=Currently+Exploring"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=65&lines=04+%C2%B7+Currently+Exploring"
 alt="Currently Exploring"
 />
 
-<p>
-<i>
-Technologies and ideas currently keeping me curious.
-</i>
-</p>
+<p><i>Technologies and ideas currently keeping me curious.</i></p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI_AGENTS-10B981?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LLM_APPLICATIONS-161B22?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RAG_SYSTEMS-2DD4BF?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/AI_AUTOMATION-161B22?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FULL_STACK_AI-10B981?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN_SOURCE-2DD4BF?style=for-the-badge"/>
+
+<br/><br/>
+
+---
+
+<!-- ============================================================= -->
+<!--                  05 · GITHUB STATUS                           -->
+<!-- ============================================================= -->
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=65&lines=05+%C2%B7+GitHub+Status"
+alt="GitHub Status"
+/>
+
+<h3><b><i>"Code. Commit. Learn. Improve. Repeat."</i></b></h3>
+
+<p><i>A visual snapshot of my coding activity, stats, and contributions.</i></p>
 
 <br/>
 
 <img
-src="https://img.shields.io/badge/AI_AGENTS-10B981?style=for-the-badge"
-alt="AI Agents"
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=KABI1212&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=2DD4BF&text_color=C9D1D9&rank_icon=github&count_private=true"
+height="165"
+alt="GitHub Stats"
 />
-
-&nbsp;
-
 <img
-src="https://img.shields.io/badge/LLM_APPLICATIONS-161B22?style=for-the-badge"
-alt="LLM Applications"
-/>
-
-&nbsp;
-
-<img
-src="https://img.shields.io/badge/RAG_SYSTEMS-2DD4BF?style=for-the-badge"
-alt="RAG Systems"
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KABI1212&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9"
+height="165"
+alt="Top Languages"
 />
 
 <br/><br/>
 
 <img
-src="https://img.shields.io/badge/AI_AUTOMATION-161B22?style=for-the-badge"
-alt="AI Automation"
-/>
-
-&nbsp;
-
-<img
-src="https://img.shields.io/badge/FULL_STACK_AI-10B981?style=for-the-badge"
-alt="Full Stack AI"
-/>
-
-&nbsp;
-
-<img
-src="https://img.shields.io/badge/OPEN_SOURCE-2DD4BF?style=for-the-badge"
-alt="Open Source"
+src="https://streak-stats.demolab.com/?user=KABI1212&hide_border=true&background=0D1117&ring=10B981&fire=2DD4BF&currStreakLabel=10B981&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"
+alt="GitHub Streak"
 />
 
 <br/><br/>
-
-<p>
-<b><i>
-AI Agents　•　LLM Applications　•　RAG
-<br/>
-Intelligent Automation　•　AI-First Products　•　Open Source
-</i></b>
-</p>
-
-<br/>
-
-
-<!-- ============================================================= -->
-<!--                       GITHUB ANALYSIS                         -->
-<!-- ============================================================= -->
-
-<img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=85&lines=GitHub+Analysis"
-alt="GitHub Analysis"
-/>
-
-<h3>
-<b><i>
-“Code. Commit. Learn. Improve. Repeat.”
-</i></b>
-</h3>
-
-<p>
-<i>
-A visual journey through my coding activity and contributions.
-</i>
-</p>
-
-<br/>
-
-<!-- CONTRIBUTION GRAPH ONLY -->
 
 <img
 width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=KABI1212&bg_color=0D1117&color=34D399&line=10B981&point=2DD4BF&area=true&hide_border=true&custom_title=KABILESH%27s%20Contribution%20Graph"
-alt="KABILESH's Contribution Graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=KABI1212&bg_color=0D1117&color=34D399&line=10B981&point=2DD4BF&area=true&hide_border=true&custom_title=KABILESH's+Contribution+Graph"
+alt="Contribution Graph"
 />
 
 <br/><br/>
 
+<sub><i>If any card above shows broken/blank — it's a temporary rate limit on the free hosting, not your account. Refresh, or ask me to set up a self-hosted instance for a permanent fix.</i></sub>
+
+<br/><br/>
+
+---
 
 <!-- ============================================================= -->
-<!--                     DEVELOPER MINDSET                         -->
+<!--                 06 · DEVELOPER MINDSET                        -->
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=56&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=85&lines=Developer+Mindset"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=65&lines=06+%C2%B7+Developer+Mindset"
 alt="Developer Mindset"
 />
 
-<h2>
-<b><i>
-CURIOSITY　→　CODE　→　EXPERIMENT　→　IMPROVE
-</i></b>
-</h2>
+<h3><b><i>CURIOSITY&nbsp;&nbsp;→&nbsp;&nbsp;CODE&nbsp;&nbsp;→&nbsp;&nbsp;EXPERIMENT&nbsp;&nbsp;→&nbsp;&nbsp;IMPROVE</i></b></h3>
 
-<p>
-<i>
-Explore what is possible
-　✦　
-Build what is useful
-　✦　
-Learn from what fails
-　✦　
-Improve what works
-</i>
-</p>
+<p><i>Explore what is possible&nbsp;&nbsp;✦&nbsp;&nbsp;Build what is useful&nbsp;&nbsp;✦&nbsp;&nbsp;Learn from what fails&nbsp;&nbsp;✦&nbsp;&nbsp;Improve what works</i></p>
 
 <br/>
 
-<h2>
-<b><i>
-“Build. Break. Learn. Rebuild better.”
-</i></b>
-</h2>
+<h3><b><i>"Build. Break. Learn. Rebuild better."</i></b></h3>
 
 <br/>
 
+---
 
 <!-- ============================================================= -->
-<!--                          CONNECT                              -->
+<!--                     07 · CONNECT                              -->
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=60&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=1100&height=95&lines=Let's+Build+Something+Interesting"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=44&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=1100&height=75&lines=07+%C2%B7+Let's+Build+Something+Interesting"
 alt="Let's Build Something Interesting"
 />
 
-<p>
-<i>
-Interested in AI, software, open source,
-or building something new?
-</i>
-</p>
+<p><i>Interested in AI, software, open source, or building something new?</i></p>
 
-<h3>
-<b><i>
-Let's connect, collaborate, and create.
-</i></b>
-</h3>
+<h3><b><i>Let's connect, collaborate, and create.</i></b></h3>
 
 <br/>
 
-<a href="mailto:kabileshkoffl@gmail.com">
-
-<img
-src="https://img.shields.io/badge/EMAIL_ME-10B981?style=for-the-badge&logo=gmail&logoColor=white"
-alt="Email Me"
-/>
-
-</a>
-
+<a href="mailto:kabileshkoffl@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-10B981?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
-
-<a href="https://www.linkedin.com/in/kabi-k">
-
-<img
-src="https://img.shields.io/badge/LINKEDIN-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=white"
-alt="LinkedIn"
-/>
-
-</a>
-
+<a href="https://www.linkedin.com/in/kabi-k"><img src="https://img.shields.io/badge/LINKEDIN-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-
-<a href="https://github.com/KABI1212?tab=repositories">
-
-<img
-src="https://img.shields.io/badge/EXPLORE_MY_CODE-161B22?style=for-the-badge&logo=github&logoColor=white"
-alt="Explore My Code"
-/>
-
-</a>
+<a href="https://github.com/KABI1212?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/><br/>
 
-
-<!-- ============================================================= -->
-<!--                         SIGNATURE                             -->
-<!-- ============================================================= -->
-
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=50&duration=3000&pause=5000&color=10B981&center=true&vCenter=true&width=700&height=80&lines=Kabilesh+K"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&duration=3000&pause=5000&color=10B981&center=true&vCenter=true&width=700&height=60&lines=Kabilesh+K"
 alt="Kabilesh K"
 />
 
-<p>
-<b><i>
-AI　×　SOFTWARE　×　INNOVATION
-</i></b>
-</p>
+<p><b><i>AI&nbsp;&nbsp;×&nbsp;&nbsp;SOFTWARE&nbsp;&nbsp;×&nbsp;&nbsp;INNOVATION</i></b></p>
 
-<sub>
-<i>
-BUILDING　•　LEARNING　•　EXPERIMENTING　•　EVOLVING
-</i>
-</sub>
+<sub><i>BUILDING&nbsp;•&nbsp;LEARNING&nbsp;•&nbsp;EXPERIMENTING&nbsp;•&nbsp;EVOLVING</i></sub>
 
 </div>
