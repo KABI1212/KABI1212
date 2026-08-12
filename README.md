@@ -113,9 +113,9 @@ alt="Tech Universe"
 <br/><br/>
 
 <h3><b><i>Developer Toolkit</i></b></h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 <br/><br/>
-<p><i>Git&nbsp;•&nbsp;GitHub&nbsp;•&nbsp;VS Code&nbsp;•&nbsp;npm</i></p>
+<p><i>Git&nbsp;•&nbsp;GitHub&nbsp;•&nbsp;VS Code&nbsp;</i></p>
 
 <br/>
 
