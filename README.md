@@ -290,11 +290,6 @@ alt="Top Languages"
 
 <br/><br/>
 
-<img
-src="https://streak-stats.demolab.com/?user=KABI1212&hide_border=true&background=0A0A0A&ring=D4AF37&fire=F5D76E&currStreakLabel=F5D76E&sideLabels=C9CED6&currStreakNum=F5D76E&sideNums=C9CED6&dates=8B949E"
-alt="GitHub Streak"
-/>
-
 <br/><br/>
 
 <img
