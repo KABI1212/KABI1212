@@ -1,6 +1,6 @@
 <!-- ============================================================= -->
 <!--              KABILESH K — GITHUB DEVELOPER PROFILE           -->
-<!--              Theme: Emerald × Aqua × Serif Typography         -->
+<!--              Theme: Black × Gold × Platinum × Crystal         -->
 <!-- ============================================================= -->
 
 <div align="center">
@@ -10,7 +10,7 @@
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=60&duration=2800&pause=5000&color=10B981&center=true&vCenter=true&width=1000&height=90&lines=Kabilesh+K"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=60&duration=2800&pause=5000&color=F5D76E&center=true&vCenter=true&width=1000&height=90&lines=Kabilesh+K"
 alt="Kabilesh K"
 />
 
@@ -24,19 +24,19 @@ alt="Kabilesh K"
 
 <br/>
 
-<a href="https://github.com/KABI1212"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/KABI1212"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=F5D76E"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/kabi-k"><img src="https://img.shields.io/badge/LINKEDIN-10B981?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kabi-k"><img src="https://img.shields.io/badge/LINKEDIN-C9CED6?style=for-the-badge&logo=linkedin&logoColor=111111"/></a>
 &nbsp;
-<a href="mailto:kabileshkoffl@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:kabileshkoffl@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F5D76E?style=for-the-badge&logo=gmail&logoColor=111111"/></a>
 &nbsp;
-<a href="https://leetcode.com/u/K_Kabilesh"><img src="https://img.shields.io/badge/LEETCODE-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+<a href="https://leetcode.com/u/K_Kabilesh"><img src="https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=F5D76E"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KABI1212&label=PROFILE+VIEWS&color=10B981&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=KABI1212&label=PROFILE+VIEWS&color=D4AF37&style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/KABI1212?label=FOLLOWERS&style=flat-square&color=2DD4BF"/>
+<img src="https://img.shields.io/github/followers/KABI1212?label=FOLLOWERS&style=flat-square&color=C9CED6"/>
 
 <br/><br/>
 
@@ -47,7 +47,7 @@ alt="Kabilesh K"
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=850&height=65&lines=01+%C2%B7+My+World"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=D4AF37&center=true&vCenter=true&width=850&height=65&lines=01+%C2%B7+My+World"
 alt="My World"
 />
 
@@ -68,7 +68,7 @@ alt="My World"
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=850&height=65&lines=02+%C2%B7+Tech+Universe"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=8FD3FF&center=true&vCenter=true&width=850&height=65&lines=02+%C2%B7+Tech+Universe"
 alt="Tech Universe"
 />
 
@@ -77,44 +77,59 @@ alt="Tech Universe"
 <br/>
 
 <h3><b><i>Languages</i></b></h3>
+
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark"/>
+
 <br/><br/>
+
 <p><i>Java&nbsp;•&nbsp;Python&nbsp;•&nbsp;JavaScript&nbsp;•&nbsp;HTML5&nbsp;•&nbsp;CSS3</i></p>
 
 <br/>
 
 <h3><b><i>Frontend &amp; Interfaces</i></b></h3>
+
 <img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/>
+
 <br/><br/>
+
 <p><i>React&nbsp;•&nbsp;Vite&nbsp;•&nbsp;Responsive UI&nbsp;•&nbsp;Modern Web Interfaces</i></p>
 
 <br/>
 
 <h3><b><i>Backend &amp; Data</i></b></h3>
+
 <img src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb&theme=dark"/>
+
 <br/><br/>
+
 <p><i>FastAPI&nbsp;•&nbsp;REST APIs&nbsp;•&nbsp;MySQL&nbsp;•&nbsp;MongoDB</i></p>
 
 <br/>
 
 <h3><b><i>Artificial Intelligence</i></b></h3>
-<img src="https://img.shields.io/badge/GENERATIVE_AI-10B981?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-D4AF37?style=for-the-badge&logoColor=111111"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-C9CED6?style=for-the-badge&logoColor=111111"/>
 &nbsp;
-<img src="https://img.shields.io/badge/NLP-2DD4BF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-8FD3FF?style=for-the-badge&logoColor=111111"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/DEEP_LEARNING-161B22?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/DEEP_LEARNING-A97142?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/COMPUTER_VISION-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/COMPUTER_VISION-C9CED6?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-2DD4BF?style=flat-square"/>
+<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-D4AF37?style=flat-square"/>
 
 <br/><br/>
 
 <h3><b><i>Developer Toolkit</i></b></h3>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
 <br/><br/>
+
 <p><i>Git&nbsp;•&nbsp;GitHub&nbsp;•&nbsp;VS Code&nbsp;</i></p>
 
 <br/>
@@ -126,7 +141,7 @@ alt="Tech Universe"
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=65&lines=03+%C2%B7+Featured+Creations"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=F5D76E&center=true&vCenter=true&width=900&height=65&lines=03+%C2%B7+Featured+Creations"
 alt="Featured Creations"
 />
 
@@ -140,16 +155,26 @@ alt="Featured Creations"
 
 <table width="100%">
 <tr>
-<td width="12%" align="center"><h1><i>1</i></h1></td>
+
+<td width="12%" align="center">
+<h1><i>1</i></h1>
+</td>
+
 <td width="88%">
 
 <h2><b><i>NOVA AI</i></b></h2>
+
 <h4><i>Multi-AI Intelligence Platform</i></h4>
+
 <p><i>A unified <b>AI-powered ecosystem</b> designed to bring multiple artificial-intelligence capabilities together into one intelligent experience — multi-provider AI architecture, intelligent conversations, modern APIs, and a full-stack user experience.</i></p>
+
 <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>Generative AI</code> <code>REST API</code></p>
-<a href="https://github.com/KABI1212/NOVA-AI"><img src="https://img.shields.io/badge/SOURCE_CODE-10B981?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href="https://github.com/KABI1212/NOVA-AI"><img src="https://img.shields.io/badge/SOURCE_CODE-D4AF37?style=for-the-badge&logo=github&logoColor=111111"/></a>
+
 &nbsp;
-<a href="https://nova-ai-virid-three.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-161B22?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<a href="https://nova-ai-virid-three.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-8FD3FF?style=for-the-badge&logo=vercel&logoColor=111111"/></a>
 
 </td>
 </tr>
@@ -159,26 +184,39 @@ alt="Featured Creations"
 
 <table width="100%">
 <tr>
+
 <td width="50%" valign="top" align="center">
 
 <h2><i>2</i></h2>
+
 <h2><b><i>ImpactSense</i></b></h2>
+
 <h4><i>Earthquake Impact Prediction</i></h4>
+
 <p><i>A Machine Learning project exploring seismic data to predict earthquake impact and potential risk levels.</i></p>
+
 <p><code>Python</code> <code>Machine Learning</code> <code>Data Analysis</code></p>
-<a href="https://github.com/KABI1212/ImpactSense---Earthquake-Impact-Prediction-"><img src="https://img.shields.io/badge/EXPLORE-10B981?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href="https://github.com/KABI1212/ImpactSense---Earthquake-Impact-Prediction-"><img src="https://img.shields.io/badge/EXPLORE-C9CED6?style=for-the-badge&logo=github&logoColor=111111"/></a>
 
 </td>
+
 <td width="50%" valign="top" align="center">
 
 <h2><i>3</i></h2>
+
 <h2><b><i>SecureChain</i></b></h2>
+
 <h4><i>Blockchain × Cybersecurity</i></h4>
+
 <p><i>An experimental security project exploring blockchain, cryptography, decentralized authentication, and secure data handling.</i></p>
+
 <p><code>Blockchain</code> <code>Cryptography</code> <code>Cybersecurity</code></p>
-<a href="https://github.com/KABI1212/Blockchain-and-Cybersecurity-SecureChain"><img src="https://img.shields.io/badge/EXPLORE-2DD4BF?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href="https://github.com/KABI1212/Blockchain-and-Cybersecurity-SecureChain"><img src="https://img.shields.io/badge/EXPLORE-A97142?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
+
 </tr>
 </table>
 
@@ -186,7 +224,7 @@ alt="Featured Creations"
 
 <br/>
 
-<a href="https://github.com/KABI1212?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-10B981?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/KABI1212?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-F5D76E?style=for-the-badge&logo=github&logoColor=111111"/></a>
 
 <br/><br/>
 
@@ -197,7 +235,7 @@ alt="Featured Creations"
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=65&lines=04+%C2%B7+Currently+Exploring"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=8FD3FF&center=true&vCenter=true&width=900&height=65&lines=04+%C2%B7+Currently+Exploring"
 alt="Currently Exploring"
 />
 
@@ -205,17 +243,19 @@ alt="Currently Exploring"
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI_AGENTS-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_AGENTS-D4AF37?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/LLM_APPLICATIONS-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_APPLICATIONS-C9CED6?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/RAG_SYSTEMS-2DD4BF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_SYSTEMS-8FD3FF?style=for-the-badge"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/AI_AUTOMATION-161B22?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_AUTOMATION-A97142?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/FULL_STACK_AI-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FULL_STACK_AI-F5D76E?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/OPEN_SOURCE-2DD4BF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN_SOURCE-C9CED6?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -226,7 +266,7 @@ alt="Currently Exploring"
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=65&lines=05+%C2%B7+GitHub+Status"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=D4AF37&center=true&vCenter=true&width=900&height=65&lines=05+%C2%B7+GitHub+Status"
 alt="GitHub Status"
 />
 
@@ -237,12 +277,13 @@ alt="GitHub Status"
 <br/>
 
 <img
-src="https://github-readme-stats-eight-theta.vercel.app/api?username=KABI1212&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=2DD4BF&text_color=C9D1D9&rank_icon=github&count_private=true"
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=KABI1212&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F5D76E&icon_color=D4AF37&text_color=C9CED6&rank_icon=github&count_private=true"
 height="165"
 alt="GitHub Stats"
 />
+
 <img
-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KABI1212&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9"
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KABI1212&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=F5D76E&text_color=C9CED6"
 height="165"
 alt="Top Languages"
 />
@@ -250,7 +291,7 @@ alt="Top Languages"
 <br/><br/>
 
 <img
-src="https://streak-stats.demolab.com/?user=KABI1212&hide_border=true&background=0D1117&ring=10B981&fire=2DD4BF&currStreakLabel=10B981&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"
+src="https://streak-stats.demolab.com/?user=KABI1212&hide_border=true&background=0A0A0A&ring=D4AF37&fire=F5D76E&currStreakLabel=F5D76E&sideLabels=C9CED6&currStreakNum=F5D76E&sideNums=C9CED6&dates=8B949E"
 alt="GitHub Streak"
 />
 
@@ -258,7 +299,7 @@ alt="GitHub Streak"
 
 <img
 width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=KABI1212&bg_color=0D1117&color=34D399&line=10B981&point=2DD4BF&area=true&hide_border=true&custom_title=KABILESH's+Contribution+Graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=KABI1212&bg_color=0A0A0A&color=C9CED6&line=D4AF37&point=F5D76E&area=true&hide_border=true&custom_title=KABILESH's+Contribution+Graph"
 alt="Contribution Graph"
 />
 
@@ -275,7 +316,7 @@ alt="Contribution Graph"
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=900&height=65&lines=06+%C2%B7+Developer+Mindset"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=F5D76E&center=true&vCenter=true&width=900&height=65&lines=06+%C2%B7+Developer+Mindset"
 alt="Developer Mindset"
 />
 
@@ -296,7 +337,7 @@ alt="Developer Mindset"
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=44&duration=2500&pause=6000&color=10B981&center=true&vCenter=true&width=1100&height=75&lines=07+%C2%B7+Let's+Build+Something+Interesting"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=44&duration=2500&pause=6000&color=8FD3FF&center=true&vCenter=true&width=1100&height=75&lines=07+%C2%B7+Let's+Build+Something+Interesting"
 alt="Let's Build Something Interesting"
 />
 
@@ -306,16 +347,16 @@ alt="Let's Build Something Interesting"
 
 <br/>
 
-<a href="mailto:kabileshkoffl@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-10B981?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:kabileshkoffl@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-D4AF37?style=for-the-badge&logo=gmail&logoColor=111111"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/kabi-k"><img src="https://img.shields.io/badge/LINKEDIN-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kabi-k"><img src="https://img.shields.io/badge/LINKEDIN-C9CED6?style=for-the-badge&logo=linkedin&logoColor=111111"/></a>
 &nbsp;
-<a href="https://github.com/KABI1212?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/KABI1212?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-111111?style=for-the-badge&logo=github&logoColor=F5D76E"/></a>
 
 <br/><br/><br/>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&duration=3000&pause=5000&color=10B981&center=true&vCenter=true&width=700&height=60&lines=Kabilesh+K"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&duration=3000&pause=5000&color=F5D76E&center=true&vCenter=true&width=700&height=60&lines=Kabilesh+K"
 alt="Kabilesh K"
 />
 
