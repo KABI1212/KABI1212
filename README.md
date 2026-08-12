@@ -10,7 +10,7 @@
 <!-- ============================================================= -->
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=60&duration=2800&pause=5000&color=F5D76E&center=true&vCenter=true&width=1000&height=90&lines=Kabilesh+K"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=60&duration=2800&pause=5000&color=F5D76E&center=true&vCenter=true&width=1000&height=90&lines=KABILESH+K"
 alt="Kabilesh K"
 />
 
@@ -351,7 +351,7 @@ alt="Let's Build Something Interesting"
 <br/><br/><br/>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&duration=3000&pause=5000&color=F5D76E&center=true&vCenter=true&width=700&height=60&lines=Kabilesh+K"
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&duration=3000&pause=5000&color=F5D76E&center=true&vCenter=true&width=700&height=60&lines=KABILESH+K"
 alt="Kabilesh K"
 />
 
