@@ -338,7 +338,7 @@ alt="Let's Build Something Interesting"
 
 <p><i>Interested in AI, software, open source, or building something new?</i></p>
 
-<h3><b><i>Let's connect, collaborate, and create.</i></b></h3>
+<h3><b><i>Let's connect, collaborate, and create Something New.</i></b></h3>
 
 <br/>
 
