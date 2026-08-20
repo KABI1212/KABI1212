@@ -300,8 +300,6 @@ alt="Contribution Graph"
 
 <br/><br/>
 
-<sub><i>If any card above shows broken/blank — it's a temporary rate limit on the free hosting, not your account. Refresh, or ask me to set up a self-hosted instance for a permanent fix.</i></sub>
-
 <br/><br/>
 
 ---
@@ -338,7 +336,7 @@ alt="Let's Build Something Interesting"
 
 <p><i>Interested in AI, software, open source, or building something new?</i></p>
 
-<h3><b><i>Let's connect, collaborate, and create Something New.</i></b></h3>
+<h3><b><i>Let's connect, collaborate & Create Something New.</i></b></h3>
 
 <br/>
 
