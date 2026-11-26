@@ -24,24 +24,24 @@ alt="Kabilesh K"
 
 <br/>
 
-<a href="https://github.com/KABI1212"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=F5D76E"/></a>
+<a href="https://kabilesh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8FD3FF?style=for-the-badge&logo=vercel&logoColor=111111" alt="Portfolio"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/kabi-k"><img src="https://img.shields.io/badge/LINKEDIN-C9CED6?style=for-the-badge&logo=linkedin&logoColor=111111"/></a>
+<a href="https://github.com/KABI1212"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=F5D76E" alt="GitHub"/></a>
 &nbsp;
-<a href="mailto:kabileshkoffl@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F5D76E?style=for-the-badge&logo=gmail&logoColor=111111"/></a>
+<a href="https://www.linkedin.com/in/kabi-k"><img src="https://img.shields.io/badge/LINKEDIN-C9CED6?style=for-the-badge&logo=linkedin&logoColor=111111" alt="LinkedIn"/></a>
 &nbsp;
-<a href="https://leetcode.com/u/K_Kabilesh"><img src="https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=F5D76E"/></a>
+<a href="mailto:kabileshkoffl@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F5D76E?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email"/></a>
+&nbsp;
+<a href="https://leetcode.com/u/K_Kabilesh"><img src="https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=F5D76E" alt="LeetCode"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KABI1212&label=PROFILE+VIEWS&color=D4AF37&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=KABI1212&label=PROFILE+VIEWS&color=D4AF37&style=flat-square" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/KABI1212?label=FOLLOWERS&style=flat-square&color=C9CED6"/>
+<img src="https://img.shields.io/github/followers/KABI1212?label=FOLLOWERS&style=flat-square&color=C9CED6" alt="Followers"/>
 
 <br/><br/>
-
 ---
-
 <!-- ============================================================= -->
 <!--                       01 · MY WORLD                            -->
 <!-- ============================================================= -->
