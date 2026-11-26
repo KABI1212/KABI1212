@@ -149,6 +149,17 @@ alt="Featured Creations"
 
 <p><code>IDEA</code>&nbsp;→&nbsp;<code>DESIGN</code>&nbsp;→&nbsp;<code>BUILD</code>&nbsp;→&nbsp;<code>ITERATE</code>&nbsp;→&nbsp;<code>IMPACT</code></p>
 
+<div align="center">
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=2500&pause=6000&color=F5D76E&center=true&vCenter=true&width=900&height=65&lines=03+%C2%B7+Featured+Creations"
+alt="Featured Creations"
+/>
+
+<h3><b><i>"Projects are where ideas become real."</i></b></h3>
+
+<p><code>IDEA</code>&nbsp;→&nbsp;<code>DESIGN</code>&nbsp;→&nbsp;<code>BUILD</code>&nbsp;→&nbsp;<code>ITERATE</code>&nbsp;→&nbsp;<code>IMPACT</code></p>
+
 </div>
 
 <br/>
@@ -156,19 +167,15 @@ alt="Featured Creations"
 <table width="100%">
 <tr>
 
-<td width="12%" align="center">
-<h1><i>1</i></h1>
-</td>
+<td width="50%" valign="top" align="center">
 
-<td width="88%">
+<h2><i>1</i></h2>
 
 <h2><b><i>NOVA AI</i></b></h2>
 
 <h4><i>Multi-AI Intelligence Platform</i></h4>
 
-<p><i>A unified <b>AI-powered ecosystem</b> designed to bring multiple artificial-intelligence capabilities together into one intelligent experience — multi-provider AI architecture, intelligent conversations, modern APIs, and a full-stack user experience.</i></p>
-
-<p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>Generative AI</code> <code>REST API</code></p>
+<p><i>A unified <b>AI-powered ecosystem</b> that brings multiple AI capabilities into one intelligent experience: multi-provider AI architecture, intelligent conversations, modern APIs, and a full-stack user experience.</i></p>
 
 <a href="https://github.com/KABI1212/NOVA-AI"><img src="https://img.shields.io/badge/SOURCE_CODE-D4AF37?style=for-the-badge&logo=github&logoColor=111111"/></a>
 
@@ -177,43 +184,22 @@ alt="Featured Creations"
 <a href="https://nova-ai-virid-three.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-8FD3FF?style=for-the-badge&logo=vercel&logoColor=111111"/></a>
 
 </td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
 
 <td width="50%" valign="top" align="center">
 
 <h2><i>2</i></h2>
 
-<h2><b><i>ImpactSense</i></b></h2>
+<h2><b><i>Tourist Chatbot</i></b></h2>
 
-<h4><i>Earthquake Impact Prediction</i></h4>
+<h4><i>AI Travel Assistant</i></h4>
 
-<p><i>A Machine Learning project exploring seismic data to predict earthquake impact and potential risk levels.</i></p>
+<p><i>A conversational chatbot that helps travelers discover destinations, plan itineraries, and get instant answers about places, local tips, and attractions.</i></p>
 
-<p><code>Python</code> <code>Machine Learning</code> <code>Data Analysis</code></p>
+<a href="https://github.com/KABI1212/YOUR-TOURIST-CHATBOT-REPO"><img src="https://img.shields.io/badge/SOURCE_CODE-D4AF37?style=for-the-badge&logo=github&logoColor=111111"/></a>
 
-<a href="https://github.com/KABI1212/ImpactSense---Earthquake-Impact-Prediction-"><img src="https://img.shields.io/badge/EXPLORE-C9CED6?style=for-the-badge&logo=github&logoColor=111111"/></a>
+&nbsp;
 
-</td>
-
-<td width="50%" valign="top" align="center">
-
-<h2><i>3</i></h2>
-
-<h2><b><i>SecureChain</i></b></h2>
-
-<h4><i>Blockchain × Cybersecurity</i></h4>
-
-<p><i>An experimental security project exploring blockchain, cryptography, decentralized authentication, and secure data handling.</i></p>
-
-<p><code>Blockchain</code> <code>Cryptography</code> <code>Cybersecurity</code></p>
-
-<a href="https://github.com/KABI1212/Blockchain-and-Cybersecurity-SecureChain"><img src="https://img.shields.io/badge/EXPLORE-A97142?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://tourist-chatbot-mu.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-8FD3FF?style=for-the-badge&logo=vercel&logoColor=111111" alt="Live Demo"/></a>
 
 </td>
 
@@ -230,6 +216,7 @@ alt="Featured Creations"
 
 ---
 
+</div>
 <!-- ============================================================= -->
 <!--                 04 · CURRENTLY EXPLORING                      -->
 <!-- ============================================================= -->
