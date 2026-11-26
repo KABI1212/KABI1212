@@ -278,13 +278,13 @@ alt="GitHub Status"
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=KABI1212&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F5D76E&icon_color=D4AF37&text_color=C9CED6&rank_icon=github&count_private=true"
-  height="165"
+  height="150"
   alt="GitHub Stats"
 />
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=KABI1212&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=F5D76E&text_color=C9CED6"
-  height="165"
+  height="150"
   alt="Top Languages"
 />
 
